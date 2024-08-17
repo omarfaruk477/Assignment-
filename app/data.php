@@ -83,43 +83,50 @@ $foodCardSec = [
         "img_title"     => "Menu Card 1",
         "img"           => "https://img.menulist.menu/storage/media/company_gallery/43513401/conversions/contribution_gallery.jpg",
         "img_desc"      => "Amar sonam bangla, ami tomay valobashi",
-        "btn"           => "Read More.."
+        "btn"           => "Read More..",
+        "bg_color"      =>  "#8e44ad "
     ],
     [
         "img_title"     => "Menu Card 2",
         "img"           => "https://enam-cdn.carta.menu/storage/media/company_gallery/80096874/conversions/contribution_gallery.jpg",
         "img_desc"      => "Amar sonam bangla, ami tomay valobashi",
-        "btn"           => "Read More.."
+        "btn"           => "Read More..",
+        "bg_color"      =>  "#8e44ad"
     ],
     [
         "img_title"     => "Menu Card 3",
         "img"           => "https://th.bing.com/th/id/OIP.3ApxjwQUwQHkZQzOO9ENDgHaFj?w=245&h=184&c=7&r=0&o=5&pid=1.7",
         "img_desc"      => "Amar sonam bangla, ami tomay valobashi",
-        "btn"           => "Read More.."
+        "btn"           => "Read More..",
+        "bg_color"      =>  "#1e8449"
     ],
     [
         "img_title"     => "Menu Card 4",
         "img"           => "https://th.bing.com/th/id/OIF.95VmyRVQFqkbpp0XPQ5oLg?w=177&h=180&c=7&r=0&o=5&pid=1.7",
         "img_desc"      => "Amar sonam bangla, ami tomay valobashi",
-        "btn"           => "Read More.."
+        "btn"           => "Read More..",
+        "bg_color"      =>  "#1e8449"
     ],
     [
         "img_title"     => "Menu Card 5",
         "img"           => "https://th.bing.com/th/id/OIP.DllECGLsryhBm4L04FfbHwAAAA?rs=1&pid=ImgDetMain",
         "img_desc"      => "Amar sonam bangla, ami tomay valobashi",
-        "btn"           => "Read More.."
+        "btn"           => "Read More..",
+        "bg_color"      =>  "#1e8449"
     ],
     [
         "img_title"     => "Menu Card 6",
         "img"           => "https://th.bing.com/th/id/OIP.DllECGLsryhBm4L04FfbHwAAAA?rs=1&pid=ImgDetMain",
         "img_desc"      => "Amar sonam bangla, ami tomay valobashi",
-        "btn"           => "Read More.."
+        "btn"           => "Read More..",
+        "bg_color"      =>  "#1e8449"
     ],
     [
         "img_title"     => "Menu Card 7",
         "img"           => "https://th.bing.com/th/id/OIP.2BRS-ZmE2ayvjMuJ0gW4UAHaEo?rs=1&pid=ImgDetMain",
         "img_desc"      => "Amar sonam bangla, ami tomay valobashi",
-        "btn"           => "Read More.."
+        "btn"           => "Read More..",
+        "bg_color"      =>  "#1e8449"
     ],
 
 

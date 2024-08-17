@@ -142,10 +142,10 @@ if ( file_exists( __DIR__ .'/autoload.php')){
 						<div class="col-1-3">
 							<div class="wrap-col">
 								<div class="box-item">
-									<span class="ribbon"><?php echo $items['img_title'];?><b></b></span>
+									<span style="background-color:<?php echo $items['bg_color']; ?>" class="ribbon"><?php echo $items['img_title'];?><b></b></span>
 									<img src="<?php echo $items['img'];?>" alt="" width="340px"; height="240px";>
 									<p><?php echo $items['img_desc'];?></p>
-									<a href="#" class="button button-1"><?php echo $items['btn'];?></a>
+									<a style="background-color:<?php echo $items['bg_color']; ?>" href="#" class="button button-1"><?php echo $items['btn'];?></a>
 								</div>
 							</div>
 						</div>
