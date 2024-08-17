@@ -125,5 +125,24 @@ $foodCardSec = [
 
 ];
 
+// Footer Section
+$footer = [
+    "title"     => "Customer Profile",
+    "location"  => "https://maps.app.goo.gl/1p3AD3oekMFVP4LM9",
+    "card"      => [
+                    "name"      => "Omar Faruk",
+                    "img"       => "images/omar.JPG",
+                    "desc"      => "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+                    ]
+];
+
+
+// Copy right 
+$copyright = [
+    "text"      => "Copyright 2024 - Designed by",
+    "link"      => "#",
+    "designby"  => "Omar Faruk"
+];
+
 
 ?>
